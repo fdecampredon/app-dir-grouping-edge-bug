@@ -2,7 +2,7 @@
 module.exports = {
   reactStrictMode: true,
   experimental: {
-    appDir,
+    appDir: true,
     runtime: 'experimental-edge'
   }
 }
